@@ -18,7 +18,7 @@ const About = (props) => {
                 <div className="text-start mx-3">
                     <h1>Change the way you think about tutoring</h1>
                     <br /><br />
-                    <p>We don’t ask your child to review and memorize the same old stuff; we help them build the skills they need to really learn and understand. With Spten Learning®’s programs you’ll be putting an end to the time and expense of hiring a tutor year after year—instead, you’ll be giving your child the skills he or she needs to deal with today’s school struggles, and helping him or her develop thinking and learning skills that will be used for this grade and for every grade.</p>
+                    <p>We don't ask your child to review and memorize the same old stuff; we help them build the skills they need to really learn and understand. With Spten Learning®'s programs you'll be putting an end to the time and expense of hiring a tutor year after year—instead, you'll be giving your child the skills he or she needs to deal with today's school struggles, and helping him or her develop thinking and learning skills that will be used for this grade and for every grade.</p>
 
                     <button onClick={handleClick} type="button" className="btn btn-primary">View All Courses</button>
                 </div>
